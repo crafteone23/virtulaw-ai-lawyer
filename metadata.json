@@ -1,0 +1,7 @@
+{
+  "name": "AI Virtual Lawyer",
+  "description": "Professional AI legal engine with search grounding and courtroom simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

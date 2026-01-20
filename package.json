@@ -1,0 +1,27 @@
+
+{
+  "name": "ai-virtual-lawyer",
+  "version": "1.0.0",
+  "description": "Professional AI legal advisor and mock trial simulator.",
+  "main": "index.tsx",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/app": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/haptics": "^7.0.0",
+    "@capacitor/ios": "^7.0.0",
+    "@capacitor/splash-screen": "^7.0.0",
+    "@capacitor/status-bar": "^7.0.0",
+    "@google/genai": "^1.34.0",
+    "framer-motion": "^12.23.26",
+    "jspdf": "^2.5.1",
+    "lucide-react": "^0.562.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-markdown": "^10.1.0"
+  },
+  "scripts": {
+    "build": "echo 'Build handled by environment'",
+    "sync": "npx cap sync"
+  }
+}
